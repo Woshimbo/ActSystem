@@ -1,6 +1,6 @@
 # File Scanner
 
-## Types
+## Identification
 
 - [ ] Extension
 - [ ] Name
@@ -14,7 +14,7 @@
 - [ ] Access Time
 - [ ] Hidden
 
-##  Scans
+##  Modes
 
 - [ ] Single Directory
 - [ ] Chosen Directories
@@ -53,3 +53,7 @@ Risk Inspection
 - [ ] Modified Time
 - [ ] Created Time
 - [ ] Headers
+- [ ] Is Dir
+- [ ] Is File
+- [ ] Mode (Permissions)
+- [ ] 
